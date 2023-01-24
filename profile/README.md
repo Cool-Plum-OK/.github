@@ -24,8 +24,8 @@ With the above technologies, **you will be OK with us**.<br>
 4. :100: **Bootstrap** and **AntDesign** framework
 
 ### Web hosting and migration
-1. AWS 
-2. Heroku
-3. Digital Ocean
-4. Google firebase and cloud
-5. Any other Linux server
+1. :100: **Amazon Web Service**
+2. :100: **Heroku**
+3. :100: **Digital Ocean**
+4. :100: **Google** firebase and cloud
+5. :100: Any other **Linux** server
