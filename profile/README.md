@@ -15,7 +15,7 @@ With the above technologies, **you will be OK with us**.<br>
 2. :100: **Node.js**, **Express**, **Sails.js**, 
 3. :100: **Python**, **Django**, **Flask**, 
 4. :100: **PHP**, **Laravel** and **CodeIgniter**, 
-5. :100: **Shopify**
+5. :100: **Shopify Theme and App**
 
 ### Frontend
 1. :100: **ReactJS**, 
