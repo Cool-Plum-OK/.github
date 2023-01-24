@@ -7,4 +7,4 @@ On the other hand, our main technology is to build and support **NFT** marketpla
 With the above technologies, **you will be OK with us**.
 Thanks
 
-<img src="./org.png" align="center" />
+<img src="./profile/org.png" align="center" />
